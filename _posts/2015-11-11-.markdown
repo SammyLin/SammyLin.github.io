@@ -2,6 +2,7 @@
 published: true
 title: 測試
 layout: post
+permalink: test
 ---
 你好
 
